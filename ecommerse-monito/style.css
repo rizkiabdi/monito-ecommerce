@@ -725,7 +725,9 @@ main .c-products .ctn-products .heading .left::after{
 }
 
 
-footer{    
+footer{
+    position:absolute;
+    bottom:0;
     height: 440px;
     background-color: var(--mon-yellow-40);
     border-radius: 40px 40px 0 0;
